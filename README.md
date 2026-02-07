@@ -24,7 +24,7 @@ The objective is to showcase how raw data can be converted into meaningful, deci
 
 ---
 
-##  Workflowpreview Preview
+##  Dashboard Preview
 
 <div align="center">
   <img src="https://github.com/AssadKhurshid/Customer-Trend-Analysis-using-SQL-Python---Power-BI/blob/main/Customer_behavior_Dashboard.png" alt="Feature Importance" width="700"/>
